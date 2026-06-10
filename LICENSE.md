@@ -1,4 +1,4 @@
-# 
+# VIP Browser Use plugins. Com suporte multilíngue e testes automatizados — otimizado para máximo desempenho e eficiência.
 
 
 
